@@ -63,3 +63,103 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+html, body {
+  background: #21171f; }
+
+h1, h2, h3 {
+  color: white;
+  text-shadow: -1px -1px 1px #eeeeee; }
+
+header {
+  /*background: $color-medium;*/ }
+
+footer {
+  text-align: center;
+  background: white; }
+
+.navbar .brand {
+  font-size: 2em;
+  padding-bottom: 0;
+  margin-left: 0;
+  float: none;
+  display: block;
+  /*width: 100%;*/
+  text-align: center;
+  font-weight: bold;
+  background: none;
+  color: white;
+  text-shadow: 1px 1px 0.25em #332e31; }
+
+.navbar .brand::after {
+  content: "";
+  height: .15em;
+  width: 100%;
+  display: block;
+  border-bottom: solid 3px #7e818c; }
+
+.navbar .nav {
+  font-size: .75em;
+  text-transform: uppercase;
+  float: none;
+  text-align: center;
+  clear: both;
+  width: 100%; }
+
+.navbar .nav > li {
+  float: none;
+  display: inline-block; }
+
+.navbar .nav > li > a {
+  opacity: .8;
+  color: #eeeeee;
+  text-shadow: 0 0 0.5em #474c5e;
+  padding: .5em; }
+
+.navbar .nav > li > a:hover {
+  opacity: 1;
+  color: white;
+  text-shadow: 0 0 10px #111111; }
+
+.navbar-inner {
+  padding: 0;
+  background: none;
+  border: none;
+  box-shadow: none; }
+
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
+  background: none; }
+
+.content {
+  background: #eeeeee;
+  padding: 0 1em 2em 1em;
+  border-radius: 0.5em 0.5em 0 0/0.5em 0.5em 0 0; }
+
+footer.navbar {
+  background: #21171f;
+  box-shadow: 0 0 0.5em #474c5e; }
+
+footer ul li {
+  width: 10%;
+  padding: .5em;
+  background: #21171f;
+  margin-top: -1em;
+  display: inline-block;
+  color: #d3cfd7;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0 0 0.25em #21171f; }
+
+footer ul li a {
+  color: #d3cfd7;
+  text-decoration: none;
+  text-shadow: 0 0 5px #444444; }
+
+footer ul li a:hover {
+  color: white;
+  text-decoration: none; }
+
+footer ul li i {
+  font-size: 150%;
+  text-align: center;
+  display: block; }

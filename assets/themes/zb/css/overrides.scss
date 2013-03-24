@@ -1,0 +1,109 @@
+html,body{
+	background: $color-xdark;
+}
+h1,h2,h3{
+	color: $mono-bright;
+	text-shadow: -1px -1px 1px $mono-light;
+}
+header{
+	/*background: $color-medium;*/
+}
+footer{
+	text-align: center;
+	background: $color-bright;
+}
+
+.navbar .brand{
+	font-size: 2em;
+	padding-bottom: 0;
+	margin-left: 0;
+	float:none;
+	display: block;
+	/*width: 100%;*/
+	text-align: center;
+	font-weight: bold;
+	background: none;
+	color: $color-bright;
+	text-shadow: 1px 1px .25em $mono-dark;
+}
+	.navbar .brand::after{
+		content: "";
+		height: .15em;
+		width: 100%;
+		display: block;
+		border-bottom: solid 3px $color-medium;
+	}
+
+.navbar .nav{
+	font-size: .75em;
+	text-transform: uppercase;
+	float: none;
+	text-align: center;
+	clear: both;
+	width: 100%;
+}
+.navbar .nav>li{
+	float: none;
+	display: inline-block;
+}
+
+
+.navbar .nav>li>a{
+	opacity: .8;
+	color: $mono-light;
+	text-shadow: 0 0 .5em $color-dark;
+	padding: .5em;
+}
+	.navbar .nav>li>a:hover{
+		opacity: 1;
+		color: $mono-bright;
+		text-shadow: 0 0 10px $mono-xdark;
+	}
+
+.navbar-inner{
+	padding: 0;
+	background: none;
+	border: none;
+	box-shadow: none;
+}
+.navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus{
+	background: none;
+}
+
+.content{
+	background: $mono-light;
+	padding: 0 1em 2em 1em;
+	border-radius: .5em .5em 0 0 / .5em .5em 0 0;
+
+}
+
+
+footer.navbar{
+	background: $color-xdark;
+	box-shadow: 0 0 .5em $color-dark;
+}
+	footer ul li{
+		width: 10%;
+		padding: .5em;
+		background: $color-xdark;
+		margin-top: -1em;
+		display: inline-block;
+		color: $color-light;
+		text-align: center;
+		border-radius: 50%;
+		box-shadow: 0 0 .25em $color-xdark;
+	}
+	footer ul li a{
+		color: $color-light;
+		text-decoration: none;
+		text-shadow: 0 0 5px $mono-medium;
+	}
+		footer ul li a:hover{
+			color: $mono-bright;
+			text-decoration: none;
+		}
+	footer ul li i{
+		font-size: 150%;
+		text-align: center;
+		display: block;
+	}
