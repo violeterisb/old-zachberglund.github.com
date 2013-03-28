@@ -1,8 +1,22 @@
+*{
+	transition: margin 100ms, font-size 100ms;
+}
+
 html,body{
+	background: $color-xdark;
 	background: url(../images/background.jpg) no-repeat center top $color-xdark;
 	background-size: 1150px;
 	margin-bottom: -1.5em;
 }
+
+a{
+	color: $color-vibrant;
+}
+	a:hover{
+		color: $color-vibrant;
+		text-shadow: 0 0 1px $color-vibrant;
+	}
+
 h1,h2,h3{
 	color: $mono-dark;
 	-webkit-text-shadow: -1px -1px 1px $mono-light;
@@ -16,6 +30,10 @@ header{
 footer{
 	text-align: center;
 	background: $color-bright;
+}
+
+.navbar .container-narrow{
+	position: relative;
 }
 
 .navbar .brand{
@@ -37,24 +55,24 @@ footer{
 	.navbar .brand::after{
 		content: '';
 		position: absolute;
-		height: 200%;
+		height: 5em;
 		width: 33%;
-		top: -1em;
+		top: -2em;
 		right: 0;
 		opacity: .5;
-		background: url(../images/notes-right.png) no-repeat center top;
-		background-size: 75%;
+		background: url(../images/notes-right.png) no-repeat right center;
+		background-size: 100%;
 	}
 	.navbar .brand::before{
 		content: '';
 		position: absolute;
-		height: 200%;
+		height: 7em;
 		width: 33%;
-		top: -1em;
+		top: -2.5em;
 		left: 0;
 		opacity: .5;
-		background: url(../images/notes-left.png) no-repeat center top;
-		background-size: 75%;
+		background: url(../images/notes-left.png) no-repeat left center;
+		background-size: 100%;
 	}
 
 
@@ -110,10 +128,52 @@ footer{
 	border-radius: .5em .5em 0 0 / .5em .5em 0 0;
 }
 
+/*Posts Elements*/
+.postGroup{
+	float: left;
+	width: 75%;
+}
+.dateGroup{
+	float: left;
+	width: 13%;
+	display: inline-block;
+	background: $mono-light;
+	padding: 10px;
+	margin-left: -2.5em;
+	box-shadow: -1em 0 .5em $mono-dark;
+}
+	.dateGroup::after{
+		content: '';
+		position: absolute;
+		height: 0;
+		width: 0;
+		margin-left: -20px;
+		margin-top: 10px;
+		border-top: solid 0 transparent;
+		border-right: solid 20px $color-medium;
+		border-bottom: solid 15px transparent;
+		border-left: solid 10px transparent;
+	}
+	.dateGroup .month{
+		text-align: center;
+		font-size: 1em;
+		line-height: 1em;
+		margin: 0;
+		padding: 0;
+	}
+	.dateGroup .year{
+		text-align: center;
+		font-size: 1.4em;
+		line-height: 1em;
+		color: $color-medium;
+		margin: 0;
+		padding: 0;
+	}
+
 
 footer.navbar{
 	background: $color-xdark;
-	box-shadow: 0 -3px 3.5em $color-xdark, 0 -1px 0 0 $color-bright;
+	box-shadow: 0 -3px 2.5em $color-xdark, 0 -1px 0 0 $color-bright;
 }
 	footer ul li{
 		width: 10%;
