@@ -1,7 +1,8 @@
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 700px; }
+  max-width: 700px;
+  position: relative; }
 
 .container-narrow > hr {
   margin: 30px 0; }
@@ -65,14 +66,16 @@
   color: #FFF; }
 
 html, body {
-  background: #21171f; }
+  background: url(../images/background.jpg) no-repeat center top #21171f;
+  background-size: 1150px;
+  margin-bottom: -1.5em; }
 
 h1, h2, h3 {
-  color: white;
+  color: #332e31;
   text-shadow: -1px -1px 1px #eeeeee; }
 
 header {
-  /*background: $color-medium;*/ }
+  margin-top: 2em; }
 
 footer {
   text-align: center;
@@ -92,11 +95,26 @@ footer {
   text-shadow: 1px 1px 0.25em #332e31; }
 
 .navbar .brand::after {
-  content: "";
-  height: .15em;
-  width: 100%;
-  display: block;
-  border-bottom: solid 3px #7e818c; }
+  content: '';
+  position: absolute;
+  height: 200%;
+  width: 33%;
+  top: -1em;
+  right: 0;
+  opacity: .5;
+  background: url(../images/notes-right.png) no-repeat center top;
+  background-size: 75%; }
+
+.navbar .brand::before {
+  content: '';
+  position: absolute;
+  height: 200%;
+  width: 33%;
+  top: -1em;
+  left: 0;
+  opacity: .5;
+  background: url(../images/notes-left.png) no-repeat center top;
+  background-size: 75%; }
 
 .navbar .nav {
   font-size: .75em;
@@ -121,6 +139,9 @@ footer {
   color: white;
   text-shadow: 0 0 10px #111111; }
 
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
+  color: white; }
+
 .navbar-inner {
   padding: 0;
   background: none;
@@ -131,13 +152,14 @@ footer {
   background: none; }
 
 .content {
-  background: #eeeeee;
-  padding: 0 1em 2em 1em;
+  background: url(../images/background-content.jpg) no-repeat center -6em #eeeeee;
+  background-size: 700px;
+  padding: 0.25em 1em 2em 1em;
   border-radius: 0.5em 0.5em 0 0/0.5em 0.5em 0 0; }
 
 footer.navbar {
   background: #21171f;
-  box-shadow: 0 0 0.5em #474c5e; }
+  box-shadow: 0 -3px 3.5em #21171f, 0 -1px 0 0 white; }
 
 footer ul li {
   width: 10%;
@@ -145,13 +167,13 @@ footer ul li {
   background: #21171f;
   margin-top: -1em;
   display: inline-block;
-  color: #d3cfd7;
+  color: #e8e7e8;
   text-align: center;
   border-radius: 50%;
   box-shadow: 0 0 0.25em #21171f; }
 
 footer ul li a {
-  color: #d3cfd7;
+  color: #e8e7e8;
   text-decoration: none;
   text-shadow: 0 0 5px #444444; }
 

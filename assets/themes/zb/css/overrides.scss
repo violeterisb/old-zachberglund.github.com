@@ -1,12 +1,14 @@
 html,body{
-	background: $color-xdark;
+	background: url(../images/background.jpg) no-repeat center top $color-xdark;
+	background-size: 1150px;
+	margin-bottom: -1.5em;
 }
 h1,h2,h3{
-	color: $mono-bright;
+	color: $mono-dark;
 	text-shadow: -1px -1px 1px $mono-light;
 }
 header{
-	/*background: $color-medium;*/
+	margin-top: 2em;
 }
 footer{
 	text-align: center;
@@ -27,12 +29,28 @@ footer{
 	text-shadow: 1px 1px .25em $mono-dark;
 }
 	.navbar .brand::after{
-		content: "";
-		height: .15em;
-		width: 100%;
-		display: block;
-		border-bottom: solid 3px $color-medium;
+		content: '';
+		position: absolute;
+		height: 200%;
+		width: 33%;
+		top: -1em;
+		right: 0;
+		opacity: .5;
+		background: url(../images/notes-right.png) no-repeat center top;
+		background-size: 75%;
 	}
+	.navbar .brand::before{
+		content: '';
+		position: absolute;
+		height: 200%;
+		width: 33%;
+		top: -1em;
+		left: 0;
+		opacity: .5;
+		background: url(../images/notes-left.png) no-repeat center top;
+		background-size: 75%;
+	}
+
 
 .navbar .nav{
 	font-size: .75em;
@@ -59,6 +77,9 @@ footer{
 		color: $mono-bright;
 		text-shadow: 0 0 10px $mono-xdark;
 	}
+	.navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus{
+		color: $mono-bright;
+	}
 
 .navbar-inner{
 	padding: 0;
@@ -71,8 +92,9 @@ footer{
 }
 
 .content{
-	background: $mono-light;
-	padding: 0 1em 2em 1em;
+	background: url(../images/background-content.jpg) no-repeat center -6em $mono-light;
+	background-size: 700px;
+	padding: .25em 1em 2em 1em;
 	border-radius: .5em .5em 0 0 / .5em .5em 0 0;
 
 }
@@ -80,7 +102,7 @@ footer{
 
 footer.navbar{
 	background: $color-xdark;
-	box-shadow: 0 0 .5em $color-dark;
+	box-shadow: 0 -3px 3.5em $color-xdark, 0 -1px 0 0 $color-bright;
 }
 	footer ul li{
 		width: 10%;
