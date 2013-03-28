@@ -71,6 +71,9 @@ html, body {
 
 h1, h2, h3 {
   color: #332e31;
+  -webkit-text-shadow: -1px -1px 1px #eeeeee;
+  -moz-text-shadow: -1px -1px 1px #eeeeee;
+  -ms-text-shadow: -1px -1px 1px #eeeeee;
   text-shadow: -1px -1px 1px #eeeeee; }
 
 header {
@@ -86,11 +89,13 @@ footer {
   margin-left: 0;
   float: none;
   display: block;
-  /*width: 100%;*/
   text-align: center;
   font-weight: bold;
   background: none;
   color: white;
+  -webkit-text-shadow: 1px 1px 0.25em #332e31;
+  -moz-text-shadow: 1px 1px 0.25em #332e31;
+  -ms-text-shadow: 1px 1px 0.25em #332e31;
   text-shadow: 1px 1px 0.25em #332e31; }
 
 .navbar .brand::after {
@@ -145,6 +150,9 @@ footer {
   padding: 0;
   background: none;
   border: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -ms-box-shadow: none;
   box-shadow: none; }
 
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
@@ -154,6 +162,9 @@ footer {
   background: url(../images/background-content.jpg) no-repeat center -6em #eeeeee;
   background-size: 700px;
   padding: 0.25em 1em 2em 1em;
+  -webkit-border-radius: 0.5em 0.5em 0 0/0.5em 0.5em 0 0;
+  -moz-border-radius: 0.5em 0.5em 0 0/0.5em 0.5em 0 0;
+  -ms-border-radius: 0.5em 0.5em 0 0/0.5em 0.5em 0 0;
   border-radius: 0.5em 0.5em 0 0/0.5em 0.5em 0 0; }
 
 footer.navbar {
@@ -168,7 +179,13 @@ footer ul li {
   display: inline-block;
   color: #e8e7e8;
   text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
   border-radius: 50%;
+  -webkit-box-shadow: 0 0 0.25em #21171f;
+  -moz-box-shadow: 0 0 0.25em #21171f;
+  -ms-box-shadow: 0 0 0.25em #21171f;
   box-shadow: 0 0 0.25em #21171f; }
 
 footer ul li a {

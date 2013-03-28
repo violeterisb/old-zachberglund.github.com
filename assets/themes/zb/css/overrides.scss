@@ -5,6 +5,9 @@ html,body{
 }
 h1,h2,h3{
 	color: $mono-dark;
+	-webkit-text-shadow: -1px -1px 1px $mono-light;
+	-moz-text-shadow: -1px -1px 1px $mono-light;
+	-ms-text-shadow: -1px -1px 1px $mono-light;
 	text-shadow: -1px -1px 1px $mono-light;
 }
 header{
@@ -21,11 +24,14 @@ footer{
 	margin-left: 0;
 	float:none;
 	display: block;
-	/*width: 100%;*/
 	text-align: center;
 	font-weight: bold;
 	background: none;
 	color: $color-bright;
+
+	-webkit-text-shadow: 1px 1px .25em $mono-dark;
+	-moz-text-shadow: 1px 1px .25em $mono-dark;
+	-ms-text-shadow: 1px 1px .25em $mono-dark;
 	text-shadow: 1px 1px .25em $mono-dark;
 }
 	.navbar .brand::after{
@@ -85,6 +91,9 @@ footer{
 	padding: 0;
 	background: none;
 	border: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
 	box-shadow: none;
 }
 .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus{
@@ -95,8 +104,10 @@ footer{
 	background: url(../images/background-content.jpg) no-repeat center -6em $mono-light;
 	background-size: 700px;
 	padding: .25em 1em 2em 1em;
+	-webkit-border-radius: .5em .5em 0 0 / .5em .5em 0 0;
+	-moz-border-radius: .5em .5em 0 0 / .5em .5em 0 0;
+	-ms-border-radius: .5em .5em 0 0 / .5em .5em 0 0;
 	border-radius: .5em .5em 0 0 / .5em .5em 0 0;
-
 }
 
 
@@ -112,7 +123,14 @@ footer.navbar{
 		display: inline-block;
 		color: $color-light;
 		text-align: center;
+
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		-ms-border-radius: 50%;
 		border-radius: 50%;
+		-webkit-box-shadow: 0 0 .25em $color-xdark;
+		-moz-box-shadow: 0 0 .25em $color-xdark;
+		-ms-box-shadow: 0 0 .25em $color-xdark;
 		box-shadow: 0 0 .25em $color-xdark;
 	}
 	footer ul li a{
