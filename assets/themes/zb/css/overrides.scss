@@ -135,13 +135,15 @@ footer{
 }
 .dateGroup{
 	float: left;
+	clear:left;
 	width: 13%;
 	display: inline-block;
 	background: $mono-light;
 	padding: 10px;
-	margin-left: -2.5em;
+	margin: 0 0 20px -2.5em;
 	box-shadow: -1em 0 .5em $mono-dark;
 }
+
 	.dateGroup::after{
 		content: '';
 		position: absolute;
@@ -173,6 +175,7 @@ footer{
 
 footer.navbar{
 	background: $color-xdark;
+	color: $mono-light;
 	box-shadow: 0 -3px 2.5em $color-xdark, 0 -1px 0 0 $color-bright;
 }
 	footer ul li{

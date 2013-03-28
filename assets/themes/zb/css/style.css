@@ -188,11 +188,12 @@ footer {
 
 .dateGroup {
   float: left;
+  clear: left;
   width: 13%;
   display: inline-block;
   background: #eeeeee;
   padding: 10px;
-  margin-left: -2.5em;
+  margin: 0 0 20px -2.5em;
   box-shadow: -1em 0 0.5em #332e31; }
 
 .dateGroup::after {
@@ -224,6 +225,7 @@ footer {
 
 footer.navbar {
   background: #21171f;
+  color: #eeeeee;
   box-shadow: 0 -3px 2.5em #21171f, 0 -1px 0 0 white; }
 
 footer ul li {

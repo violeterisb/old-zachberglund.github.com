@@ -41,14 +41,16 @@ Usage:
     {% else %}
       {% if this_year != next_year %}
         </ul>
-        <h2 class="year">{{next_year}}</h2>
-        <h3 class="month">{{next_month}}</h3>
-        <ul>
+        <span class="dateGroup">
+          <h3 class="month">{{next_month}}</h3>
+          <h2 class="year">{{next_year}}</h2>
+        </span>
+        <ul class="postGroup">
       {% else %}    
         {% if this_month != next_month %}
           </ul>
           <h3 class="month">{{next_month}}</h3>
-          <ul>
+          <ul class="postGroup">
         {% endif %}
       {% endif %}
     {% endif %}
