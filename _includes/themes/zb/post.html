@@ -5,7 +5,7 @@
 <div class="row-fluid post-full">
   <div class="span12">
     <div class="date">
-      <span>{{ page.date | date_to_long_string }}</strong>
+      <span>{{ page.date | date_to_long_string }}</span>
     </div>
     <div class="content">
       {{ content }}
@@ -39,7 +39,7 @@
       {% if page.next %}
         <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
       {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
+        <li class="next disabled"><a>Next &rarr;</a></li>
       {% endif %}
       </ul>
     </div>
