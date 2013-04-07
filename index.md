@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Composer, Custom, Commission, Film, Video Games
-tagline: Welcome!
 ---
 {% include JB/setup %}
 
