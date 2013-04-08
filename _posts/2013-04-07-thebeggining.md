@@ -9,8 +9,6 @@ tags: [Self-Update, Start, Finished Composition]
 
 Hey there! Welcome to my blog, and the very first post of it. I hope you enjoy your time here. I'm going to spend this post explaining a bit about me, why I am blogging, and why this site exists in the first place. 
 
-## ZachBerglund.com
-
 ### A Little About Me
 
 If you don't know very much about me I'm a musician. I play trumpet, piano, some percussion, a very little bit of guitar–during all of this I compose. I love music and I love creating it both on my own with instruments and for others to play. This being true I surround my self completely in music, constantly. Currently I am spending almost all my time improving myself as a musician, studying Trumpet Performance and Composition at the University of Northern Colorado (UNC). 
