@@ -18,4 +18,4 @@ My goal with this blog is to grow and improve as a musician in general. While th
 
 ### Music
 
-In honor of my previous statement, and to wrap up this first post, I most recently finished a piece I wrote for my dear friend Albion Budney that I am quite excited about. It's a solo piano theme and variations, and while I have written most for piano this piece has taken a lot of time and taught me a lot. Just listening through this piece from the first variation to the finale I can hear the improvements to my composing it has brought me. 
+In honor of my previous statement, and to wrap up this first post, I most recently finished a piece I wrote for my dear friend Albion Budney that I am quite excited about. It's a solo piano theme and variations, and while I have written most for piano this piece has taken a lot of time and taught me a lot. Just listening through this piece from the first variation to the finale I can hear the improvements to my composing it has brought me. I am hoping to get this recorded soon put it up here for you to here!
