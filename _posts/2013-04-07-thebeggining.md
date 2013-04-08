@@ -3,7 +3,7 @@ layout: post
 title: "ZachBerglund.com: Begin"
 description: "First Blog Post: Description of Blog"
 category: Weekly Post
-tags: [Self-Update, Start, Finished, Composition]
+tags: [Self-Update, Start, Finished Composition]
 ---
 {% include JB/setup %}
 
