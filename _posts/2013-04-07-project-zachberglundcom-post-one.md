@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "ZachBerglund.com: Post One"
+title: "ZachBerglund.com: Begin"
 description: "First Blog Post: Description of Blog"
 category: Weekly Post
-tags: [Music Blog, Blog, Musician, Composer]
+tags: [Self-Update, Start, Finished, Composition]
 ---
 {% include JB/setup %}
 
 Hey there! Welcome to my blog, and the very first post of it. I hope you enjoy your time here. I'm going to spend this post explaining a bit about me, why I am blogging, and why this site exists in the first place. 
 
-## Why zachberglund.com
+## ZachBerglund.com
 
 ### A Little About Me
 
