@@ -10,4 +10,4 @@ This page is currently a "work" in progress–if you will. I will be updating th
 
 2013:
 
-[Variations on a Plain]() (Solo Piano)
+[Variations on a Plain](http://zachberglund.com/2013/05/02/variations-on-a-plain/) (Solo Piano)
