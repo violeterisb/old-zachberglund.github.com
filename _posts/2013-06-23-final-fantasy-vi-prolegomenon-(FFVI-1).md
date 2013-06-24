@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Final Fantasy VI: Prolegomenon (FFVI-1)"
+description: ""
+category: 
+tags: [Final Fantasy VI, Score Commentary]
+---
+{% include JB/setup %}
+
+Hello all, I have returned to blogging! I took a bit of a break for the sake of taking a break, my busy work schedule, and to really ponder a new idea of what to write about that would really be worth my time. The results is a series I am beginning (as of today) on the music of Nobeu Uematsu for Final Fantasy I-XI. I will spend more time on some games than others, which is dependent simply on what I find as an interesting topic for blogging. Some games I might not blog about at all. I am starting specifically with the music of Final Fantasy VI, which I will spend most of my time on as it is what I find the most interesting and has the most to look at. My hope with this is that I will learn new ways and ideas to compose music in the future, and that anyone reading might learn something interesting or exciting about the music I'm discussing (maybe just how awesome Video Game soundtracks can be). It is likely there will be moments I will be incorrect about some of the things I state and discover in this series, but my hope is that the more I do it the less that will happen. 
+
+##Final Fantasy VI
+
+Final Fantasy VI is one of my all time favorite games for its score, story, art, and gameplay. While I will not be discussing the gameplay, the story, score, and art I find very important to each other to a game as a whole and while I will discuss mostly the score I will not solely discuss it. In light of that, I will try and give a quick rundown of each of these things. 
+
+###The Story
+
+Final Fantasy VI is set in a fantasy world (surprised?) a mix of general human advancement. Think industrial revolution with magic as the steam powering it. It's a very dark world with the biggest government/state being "The Empire"–a very power-hungry, power-driven force that will stop at nothing to get what they want (good morality optional!). A thousand years before the events of the game there was a great conflict, "The War of the Magi", between three entities known as the "Warring Triad" which unleashed magic into the world and transformed the humans affected by it into espers which were basically just magical beings that were forced to fight. After the events the Warring Triad gave the espers free will with one request, to hide and lock their power away from the world. Through time magic became a myth and legend, and humans advanced in science and technology. Eighteen years before the events of the game, the barrier between the esper and human world weakened, and the emperor, Gestahl, took advantage of it by attacking the land of the espers and capturing some of them. Gestahl learned how to turn espers into condensed magic, magicite, which is an extreme power source giving the Empire complete military and technological advancement over anyone else opposing them. From the start of the game, Gestahl is on the verge of collecting and using the full potential of magic by mixing machinery and magicite. The result of this is Magitek, which is used to make all sorts of military mechs powered by magic, and even the capability of giving humans magical powers. This gives the Empire complete domination over their only opposition, The Returners. 
+
+###The Art
+
+![Final Fantasy VI Box Art](https://s3.amazonaws.com/zachberglund.com/images/amano-final-fantasy-vi.jpg)
+
+For the art, I will try to mostly find images like the one shown above to and describe from there. The box art (above), while not in-game, is a great way to show an intro to how the art of the game is. Almost everything is depicted as very dark and oppressed which is showed with the almost only dark color palette of the city and mech (Magitek Armor). The one thing in the image with very bright colors stands out just as much as the heroes stand out in the game, Terra, arguably the main protagonist. Almost every main city in the game, specifically Empire controlled or oppressed cities, are very dark cities. The only times the game is visually light and brighter is away from main cities in mountains and small villages. I find this fits very well with the story, score, and game as whole. It gives such a great setting everyone one can go in the game and fits as good as anything could. What's even more amazing to me is that this is an SNES game, meaning it's really old (1994 to be exact) and has lots of limitations yet still manages to display great animations that emotions and small actions can be read relatively easily. It will even pull on your heartstrings if you let it! I'll leave you with an in-game image of Terra in the Empire-oppressed town of Neshe during the opening of the game.
+ 
+![Final Fantasy VI In-Game Image: Neshe](https://s3.amazonaws.com/zachberglund.com/images/final-fantasy-vi-20060509061309295.jpg)
+
+###The Music
+
+Since the music is my main focus of the game I will explain more in depth on each specific song, however, I'll give a few general things about it now. For one, the entire score is completely synthesized (reminder: it is an SNES game), but that does not take from musical complexity or awesomeness. In fact, I cant think of any better ways to fit this game with music than the sounds used by Nobeu Uematsu in FFVI. I find that the synthesized SNES sounds of mixed instruments fit the SNES visuals of the game beautifully. With that, I will leave you with Techno de Chocobo! 'Cause who doesn't like Chocobos.
+
+{% youtube SNgUI94Lxik %}
+
+
