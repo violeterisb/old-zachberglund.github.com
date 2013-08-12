@@ -8,7 +8,6 @@ tags: [Final Fantasy VI, Score Commentary]
 {% include JB/setup %}
 
 ![Locke Concept Art](http://images1.wikia.nocookie.net/__cb20120724215922/finalfantasy/images/1/1b/192px-6-locke-a.jpg)
-![Locke In-Game](http://images.wikia.com/finalfantasy/images/3/30/FF6LockeSprites.PNG)
 
 Time to dive into Batma–I mean [Locke's theme](http://www.youtube.com/watch?v=joNmYWYFZQg). 
 
@@ -20,10 +19,9 @@ To sum it up he had this girl named Rachel (Locke's the Batman) who while on the
 Celes is originally saved by Locke early in the game and Locke promises to protect her. They have their ups and downs, but ultimately they fall for each other. I will explain more in depth on that when I dive into Celes' theme.  
 
 ###Art
-![Locke Concept Art](http://images1.wikia.nocookie.net/__cb20120724215922/finalfantasy/images/1/1b/192px-6-locke-a.jpg)
 ![Locke In-Game](http://images.wikia.com/finalfantasy/images/3/30/FF6LockeSprites.PNG)
 
-Taking a look at these pictures we have a couple sprites of the in-game Locke on the bottom and a more in depth image to give you a little more to visualize what his character is like (this secondary art done by Yoshitaka Amano exists of just about everything important in FFVI, and I love how well it depicts the style of the game with the it's own style of art). His sprites and Amano art work really do his character good, and give a really good depiction of his character.
+Taking a look at these pictures we have a couple sprites of the in-game Locke right above and a more in depth image to give you a little more to visualize what his character is like at the very top of this post (this secondary art done by Yoshitaka Amano exists of just about everything important in FFVI, and I love how well it depicts the style of the game with the it's own style of art). His sprites and Amano art work really do his character good, and give a really good depiction of his character.
 
 ###Music
 
