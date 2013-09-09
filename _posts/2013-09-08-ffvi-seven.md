@@ -18,7 +18,7 @@ While every character in this game has some form of tragedy, I think I feel for 
 
 ###Art
 
-![Cyan Amano](http://images.wikia.com/finalfantay/images/d/d2/Ff6cyanart.jpg)
+![Cyan Amano](http://images4.wikia.nocookie.net/__cb20120724213643/finalfantasy/images/d/d2/Ff6cyanart.jpg)
 ![Cyan Sprites](http://images.wikia.com/finalfantasy/images/2/24/FF6CyanSprites.PNG)
 
 I find Cyan's Amano artwork extra exceptional. Not only is he portrayed as manly and epic as he should, but he is drawn in a side view as he looks off into the distance. After the tragic events that happen to Cyan are past, he is the lone avenger (there is a scout of some sort that also survives, but I do not recall what happens to him. He plays no important role later in the game.) of his kingdom Doma, and he is living alone without his wife and child. The look given to him by Amano is also that of having a goal in mind. The goal of revenge. His sprites depict his baus samurai self very well, and I even find that his eyes show his anger that's there, hiding his sorrows. 
