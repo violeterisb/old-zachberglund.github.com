@@ -13,9 +13,6 @@ Time to discuss the second loner in the game, [Cyan](http://www.youtube.com/watc
 
 While every character in this game has some form of tragedy, I think I feel for Cyan the most. Cyan is a samurai and higher-up soldier of Doma. When Sabin and Shadow arrive to Doma Castle it is under attack by the Empire. General Leo of the Empire, possibly the only reasonable person from the Empire, who was in charge of the assault has to attend to other matters leaving Kefka as the leader of the assault. Kefka, rather than attacking the castle with the forces given him, poisons the entire river with no regard for anyone inside, or even his own soldiers. Cyan watches as his King dies in front of him, and finds his whole family killed by the poison. Filled with rage he goes on a rampage attacking the entire Empire encampment, and with the help of Sabin, Shadow and some Magitek Armor (Random Fact: Cyan has a phobia of technology.) they destroy the encampment with only Kefka getting away. Oh and it's not over yet. Following this event, Sabin, Shadow and Cyan travel through the Phantom forest where there is a train that takes the dead from this world to... somewhere, the Phantom (Ghost) Train. The party gets stuck on this train, and in the end has to fight it to stop it so they aren't brought to... somewhere. Well, the train stops at a station, the party gets off, and as the party leaves Cyan's wife's and child's spirits are seen getting on the train. This event happens RIGHT after them dying in Doma castle.  Thanks for rubbing it in Square. This turns Cyan into more of a baus then he already was, and now has a scary revenge side to him. 
 
-“I am Cyan, retainer to the king of Doma. I am your worst nightmare...”
-—Cyan, to the Captain of the Empire encampment
-
 ###Art
 
 ![Cyan Amano](http://images4.wikia.nocookie.net/__cb20120724213643/finalfantasy/images/d/d2/Ff6cyanart.jpg)
