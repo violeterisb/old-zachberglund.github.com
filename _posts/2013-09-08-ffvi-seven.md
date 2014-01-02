@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Fantasy VI: Cyan and Castle Doma"
+title: "Final Fantasy VI: Cyan and Castle Doma (FFVI-7)"
 description: ""
 category: 
 tags: []
