@@ -3,7 +3,7 @@ layout: post
 title: "Final Fantasy VI: Cyan and Castle Doma (FFVI-7)"
 description: ""
 category: 
-tags: []
+tags: [Final Fantasy VI, Score Commentary]
 ---
 {% include JB/setup %}
 
