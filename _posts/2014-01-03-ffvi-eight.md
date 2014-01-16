@@ -17,12 +17,12 @@ I am continually reminded I should spend more time writing. As the semester has 
 
 Gau is probably the only character that doesn't have an obvious reason to hate the Empire. His mother died from his birth, leading his father to go insane. The only reason that he seems to be motivated to fight with the party is his attachment with Sabin and Cyan. Not to make that sound like a weak reason though, living on your own in a desert for your whole life would probably be a little lonely. I would most likely want to stick around with the people that actually did something for me.
 
-###Music
-
-Gau's Theme also attributes to catching one off guard. His theme is a solo melody with accompaniment. The first solo instrument to play is the ever mature, beautiful, intelligent sounding cello, eventually passed on to a flute with a more full accompaniment. It kind of expresses what Gau is really like despite his whole living-in-the-desert-by-himself problem. This is one of the great moments in this soundtrack that can really make one stop and think about what this story has to say. Gau is the most caveman-like of everyone and has had the simplest of lives based solely on survival. This in mind, it is obvious that his only want is to be with other people he can actually trust. This is a complete contradiction of Kefka's whole philosophy as the most simple display of the very core of humanity is Gau and all Gau wants is a friend. Gau wants unity, connection, trust, and everything else that goes along with a friendship–all of which COMPLETELY contradicts what Kefka is trying to do.
-
 ###Art   
 
 ![Gau Sprites](http://static4.wikia.nocookie.net/__cb20121018060803/finalfantasy/images/8/81/FF6GauSprites.PNG)
 
-The main thing I find to look at in the art is the "spark" of intelligence that can be seen from the Amano artwork of Gau. On top of that it also seems he either found or learned how to give himself some clothing which from my experience isn't all that easy. 
+The main thing I enjoy in the art is the "spark" of intelligence that can be seen from the Amano artwork of Gau. On top of that it also seems he either found or learned how to give himself some clothing which from my experience isn't all that easy.
+
+###Music
+
+Gau's Theme also attributes to catching one off guard. His theme is a solo melody with accompaniment. The first solo instrument to play is the ever mature, beautiful, intelligent sounding cello, eventually passed on to a flute with a more full accompaniment. It kind of expresses what Gau is really like despite his whole living-in-the-desert-by-himself problem. This is one of the great moments in this soundtrack that can really make one stop and think about what this story has to say. Gau is the most caveman-like of everyone and has had the simplest of lives based solely on survival. This in mind, it is obvious that his only want is to be with other people he can actually trust. This is a complete contradiction of Kefka's whole philosophy as the most simple display of the very core of humanity is Gau and all Gau wants is a friend. Gau wants unity, connection, trust, and everything else that goes along with a friendship–all of which COMPLETELY contradicts what Kefka is trying to do.
