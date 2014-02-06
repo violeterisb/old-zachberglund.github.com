@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Fantasy VI: The Others, and the A B (FFVI-12)"
+title: "Final Fantasy VI: The Penultimate Post (FFVI-12)"
 description: ""
 category: 
 tags: [Score Commentary, Final Fantasy VI]
