@@ -3,7 +3,7 @@ layout: post
 title: "Final Fantasy VI: Finale Intro (FFVI-13A)"
 description: ""
 category: 
-tags: []
+tags: [Score Commentary, Final Fantasy VI]
 ---
 {% include JB/setup %}
 
