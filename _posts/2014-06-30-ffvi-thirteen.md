@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Fantasy VI: Finale–Intro (FFVI-13)"
+title: "Final Fantasy VI: Finale Intro (FFVI-13)"
 description: ""
 category: 
 tags: [Score Commentary, Final Fantasy VI]
@@ -19,4 +19,4 @@ The following image is Kefka's Monster Tower creation that the party fights befo
 
 ## Finale Posts
 
-[Part I–Catastrophe's Recapitulation]()
+[Part I–Catastrophe's Recapitulation](http://zachberglund.com/2014/07/06/ffvi-thirteena/)
