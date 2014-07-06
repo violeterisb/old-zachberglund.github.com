@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Fantasy VI: Finale Intro (FFVI-13A)"
+title: "Final Fantasy VI: Finale–Intro (FFVI-13)"
 description: ""
 category: 
 tags: [Score Commentary, Final Fantasy VI]
@@ -17,3 +17,6 @@ The following image is Kefka's Monster Tower creation that the party fights befo
 
 ![Kefka's Monster Tower](http://img4.wikia.nocookie.net/__cb20080301153027/finalfantasy/images/d/de/FFVI-lastboss_us.gif)
 
+## Finale Posts
+
+[Part I–Catastrophe's Recapitulation]()
