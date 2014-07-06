@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Fantasy VI: Finale I–Catasrophe's Recapitulation (FFVI-13A)"
+title: "Final Fantasy VI: Catasrophe's Recapitulation (FFVI-13A)"
 description: ""
 category: 
 tags: [Score Commentary, Final Fantasy VI]
