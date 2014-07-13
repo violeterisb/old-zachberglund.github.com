@@ -20,3 +20,5 @@ The following image is Kefka's Monster Tower creation that the party fights befo
 ## Finale Posts
 
 [Part I–Catastrophe's Recapitulation](http://zachberglund.com/2014/07/06/ffvi-thirteena/)
+
+[Part II–Catastrophe's Recapitulation](http://zachberglund.com/2014/07/06/ffvi-thirteenb/)
