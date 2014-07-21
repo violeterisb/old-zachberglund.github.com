@@ -15,6 +15,5 @@ The second movement begins at about [4:30](http://youtu.be/JbXVNKtmWnc?t=4m30s),
 
 Movement II's music is really where Kefka's madness is made plain. The combination of repeating patterns in the organ and off-beat choir really bring Kefka's insanity to light in the music. This leads to the powerful interchanging hits of organ, percussion, and choir, displaying Kefka's power. The third section of Movement II is intrusion-cadenza-like organ solo, which is a teaser and follow through to Movement III, and displays the new aspect of Kefka which we will explore in depth in that movement. This allows the music to drive a great deal of development in the fight itself. After the first movement revealed the full extent of Kefka's evil works, this movement gives us a musical description of his evil being—a description which only serves to heighten and highlight the nervousness that attends fighting any final boss.
 
-[Next Part](http://zachberglund.com/2014/07/06/ffvi-thirteenc/)
 
 If you are interested in more of the series [start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve. And meet another secret Batman.
