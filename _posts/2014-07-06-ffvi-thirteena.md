@@ -7,6 +7,8 @@ tags: [Score Commentary, Final Fantasy VI]
 ---
 {% include JB/setup %}
 
+[Start the finale here!](http://zachberglund.com/2014/07/06/ffvi-thirteen/)
+
 ## Movement I
 
 The time has come to face the villain of the story. The party pulls themselves together in a last stand at the end of the world, fights to the top of Kefka's tower, and listens through his evil monologue describing his reason for living–chaos, destruction, and nothingness. We know no reason as to why Kefka is the way his is, but his drive for chaos, the power he has amassed, and his edgy nature have made him into the archetypal terrifying villain. If nihilism can be personified, Kefka is it. Now is the group's last chance for redeeming any little bit of good in the world that Kefka has not yet destroyed.
@@ -17,3 +19,4 @@ While fighting this monster at the bottom of the tower, the music begins with a 
 
 [Next Part](http://zachberglund.com/2014/07/06/ffvi-thirteenb/)
 
+If you want more of this series and interesting in more [Start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve.

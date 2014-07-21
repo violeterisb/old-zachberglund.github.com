@@ -22,3 +22,7 @@ The following image is Kefka's Monster Tower creation that the party fights befo
 [Part I–Catastrophe's Recapitulation](http://zachberglund.com/2014/07/06/ffvi-thirteena/)
 
 [Part II–Kefka's Madness](http://zachberglund.com/2014/07/06/ffvi-thirteenb/)
+
+[Part III–The Comedy of the Divine](http://zachberglund.com/2014/07/06/ffvi-thirteenc/)
+
+If you are interested in more of the series [start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve. And meet another secret Batman.
