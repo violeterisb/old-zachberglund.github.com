@@ -28,4 +28,4 @@ The artists and writers are using concepts behind Dante's _The Divine Comedy_ as
 Oh, and just in case you didn't catch it yet, this is how he shows himself in the fourth movement and final face-off:
 ![This is his final form](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ2oVmIlhdwXoIutlJfsgS66HW8Ew63YQ_ExZKwlV681eXjjv1)
 
-If you want more of this series and interesting in more [Start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve.
+If you are interested in more of the series [start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve. And meet another secret Batman.

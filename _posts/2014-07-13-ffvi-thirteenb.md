@@ -17,4 +17,4 @@ Movement II's music is really where Kefka's madness is made plain. The combinati
 
 [Next Part](http://zachberglund.com/2014/07/06/ffvi-thirteenc/)
 
-If you want more of this series and interesting in more [Start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve.
+If you are interested in more of the series [start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve. And meet another secret Batman.
