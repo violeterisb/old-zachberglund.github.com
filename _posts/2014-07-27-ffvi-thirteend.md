@@ -3,7 +3,7 @@ layout: post
 title: "Final Fantasy VI: Famous Last Words (FFVI-13d)"
 description: ""
 category: 
-tags: []
+tags: [Score Commentary, Final Fantasy VI]
 ---
 {% include JB/setup %}
 
