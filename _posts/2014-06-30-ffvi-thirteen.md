@@ -25,4 +25,6 @@ The following image is Kefka's Monster Tower creation that the party fights befo
 
 [Part III–The Comedy of the Divine](http://zachberglund.com/2014/07/06/ffvi-thirteenc/)
 
+[Part IV–Famous Last Words](http://zachberglund.com/2014/07/06/ffvi-thirteend/)
+
 If you are interested in more of the series [start here!](http://zachberglund.com/2013/06/23/ffvi-one/) You can watch my writing evolve. And meet another secret Batman.
