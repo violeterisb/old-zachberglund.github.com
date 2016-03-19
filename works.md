@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-This page is currently a "work" in progress–if you will. I will be updating this as I go a long with my blog and acquire more recordings of my music. In the mean time my works consist of various piano solos, electronic pieces, and a mixture of different compositions for small ensembles–a few of these being commissions.
+This page is currently a "work" in progress–if you will. I will be updating this page quite a bit in a few months. In the mean time if you would like to see more of my work send me and email and I can show you personally.
 
 2013:
 
